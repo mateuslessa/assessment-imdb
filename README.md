@@ -44,9 +44,9 @@ Obs.: Na primeira execução, a pasta data/ pode estar vazia. Todos esses arquiv
 ## Dependências necessárias
 
 ```md
-• **beautifulsoup4** – parsing HTML
-• **pandas** – análise e manipulação de dados
-• **SQLAlchemy** – ORM para persistência no SQLite
+• beautifulsoup4 – parsing HTML
+• pandas – análise e manipulação de dados
+• SQLAlchemy – ORM para persistência no SQLite
 ```
 Todas estão listadas no arquivo requirements.txt.
 
@@ -94,11 +94,11 @@ Todas as saídas são exibidas no terminal durante a execução.
 
 ## Descrição dos módulos
 ```md
-**scraping.py** → coleta dados do IMDb
-**models.py** → define classes TV, Movie, Series e cria catálogo
-**database.py** → cria engine, tabelas e salva dados com SQLAlchemy
-**analysis.py** → leitura com Pandas, exportação e resumo
-**main.py** → orquestra todo o fluxo do projeto
+scraping.py → coleta dados do IMDb
+models.py → define classes TV, Movie, Series e cria catálogo
+database.py → cria engine, tabelas e salva dados com SQLAlchemy
+analysis.py → leitura com Pandas, exportação e resumo
+main.py → orquestra todo o fluxo do projeto
 ```
 
 ---
