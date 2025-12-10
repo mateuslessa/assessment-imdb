@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "title":"Breaking Bad",
+        "year":2008,
+        "seasons":5,
+        "episodes":62
+    },
+    {
+        "id":2,
+        "title":"Better Call Saul",
+        "year":2015,
+        "seasons":6,
+        "episodes":63
+    }
+]
